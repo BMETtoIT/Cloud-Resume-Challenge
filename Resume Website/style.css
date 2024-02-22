@@ -157,6 +157,7 @@ p
 {
     color: #333;
     text-transform: none;
+    font-size: large;
 }
 .about .box
 {
@@ -178,7 +179,7 @@ p
 {
     text-transform: uppercase;
     color: #2a7da2;
-    font-size: 16px;
+    font-size: large;
 }
 .about .box .text p
 {
@@ -190,17 +191,17 @@ p
     color: #fff;
     font-size: medium;
 }
-.Coursework ul li p
+.Coursework p
 {
     margin-bottom: 15px;
     list-style: none;
-    font-size: medium;
+    font-size: large;
 
 }
 .Coursework h4
 {
     color: #2a7da2;
-    font-size: 16px;
+    font-size: 18px;
 }
 .Coursework h5
 {
